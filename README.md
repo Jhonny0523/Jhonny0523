@@ -1,20 +1,21 @@
-<!-- Imagen o banner al inicio -->
+
+<!-- Programming GIF or banner at the top -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ebd62a.gif" width="500"/>
 </p>
 
-# 👋 ¡Hola! Soy **Nombre**
+# 👋 Hello! I'm Jhonatan Bolívar Laverde
 
-🎓 Estudiante de la **Universidad Nacional de Colombia**  
-📍 Desde Bogotá, Colombia 🇨🇴  
+🎓 Student at the National University of Colombia 
+📍 Based in Bogotá, Colombia 🇨🇴  
 
-💡 Apasionado por el desarrollo de software, bases de datos y el diseño de interfaces modernas.
+💡 Passionate about software development, databases, and building modern user interfaces.
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Technologies I Use
 
-### Lenguajes de programación
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-### Frameworks y herramientas
+### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -30,7 +31,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### Bases de datos
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -39,27 +40,27 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Highlighted Projects
 
-### 🍰 [My Sweet Order](https://github.com/Samuel-Correales/My-sweet-order.git)
-Aplicación de repostería que permite a los usuarios crear pedidos personalizados, con roles de cliente y administrador.
+### 🍰 [My Sweet Order](https://github.com/Samuel-Correales/My-sweet-order.git)  
+A pastry ordering app that allows users to fully customize their orders. Includes client and admin roles.
 
-### 🌍 [Bogotravel](https://github.com/adrianyebid/ingenieria-software1-grupo-naruto.git)
-Aplicación tipo diario de viajes para explorar y guardar lugares turísticos de Bogotá.
-
----
-
-## 🎯 Intereses
-
-- Desarrollo de aplicaciones de escritorio con interfaces modernas  
-- Inteligencia Artificial aplicada a la detección de fraude  
-- Desarrollo de videojuegos y simulaciones interactivas  
+### 🌍 [Bogotravel](https://github.com/adrianyebid/ingenieria-software1-grupo-naruto.git)  
+A travel diary desktop application to explore and save tourist places in Bogotá.
 
 ---
 
-## 📫 Contacto
+## 🎯 Interests
 
-- 📧 **Correo:** jhonatanbolivarlaverde@gmail.com  
+- Building desktop applications with modern UIs  
+- Artificial Intelligence for fraud detection  
+- Game and simulation development  
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** jhonatanbolivarlaverde@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/jhonatan-bolivar-20116a304](https://www.linkedin.com/in/jhonatan-bolivar-20116a304)
 
 ---
@@ -73,4 +74,4 @@ Aplicación tipo diario de viajes para explorar y guardar lugares turísticos de
 
 ---
 
-### Gracias por visitar mi perfil 🙌
+### Thanks for visiting my profile! 🙌
