@@ -54,15 +54,15 @@ A travel diary desktop application to explore and save tourist places in Bogotá
 
 - 🎨🖥️ **Building applications with modern user interfaces**  
   I enjoy crafting responsive and elegant desktop applications that feel intuitive and smooth to use.
-  ![UI GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 - 🎮💡 **Developing games with creative ideas**  
   Game design is a fun way to combine logic, graphics, and storytelling. I love experimenting with new concepts.
-   ![Game Dev](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+   <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6bjF5bjVlbDNuejZlamFncndrM2QyYmdqczV2a2lldG1hejIyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt8EV3YSrZIKyxa/giphy.gif)" width="300"/>
 
 - 🤖🧠 **Artificial Intelligence**  
   I'm deeply interested in using AI to solve real-world problems.
-  ![AI](https://media.giphy.com/media/kbRbXz3vZ9wBW/giphy.gif)
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYxc3lsY2t3M2pweHd6d3VodDc1cHgzbnNsaWIzNDlrdHl2aXkxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif)" width="300"/>
 
 ---
 
