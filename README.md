@@ -6,7 +6,7 @@
 
 # 👋 Hello! I'm Jhonatan Bolívar Laverde
 
-🎓 Student at the National University of Colombia 
+🎓 Systems and Computing Engineering student at the National University of Colombia
 📍 Based in Bogotá, Colombia 🇨🇴  
 
 💡 Passionate about software development, databases, and building modern user interfaces.
@@ -52,9 +52,17 @@ A travel diary desktop application to explore and save tourist places in Bogotá
 
 ## 🎯 Interests
 
-- Building desktop applications with modern UIs  
-- Artificial Intelligence for fraud detection  
-- Game and simulation development  
+- 🎨🖥️ **Building applications with modern user interfaces**  
+  I enjoy crafting responsive and elegant desktop applications that feel intuitive and smooth to use.
+  ![UI GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+- 🎮💡 **Developing games with creative ideas**  
+  Game design is a fun way to combine logic, graphics, and storytelling. I love experimenting with new concepts.
+   ![Game Dev](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+- 🤖🧠 **Artificial Intelligence**  
+  I'm deeply interested in using AI to solve real-world problems.
+  ![AI](https://media.giphy.com/media/kbRbXz3vZ9wBW/giphy.gif)
 
 ---
 
