@@ -42,10 +42,10 @@
 
 ## 🚀 Highlighted Projects
 
-### 🍰 [My Sweet Order](https://github.com/Samuel-Correales/My-sweet-order.git)  
+### 🍰 [My Sweet Order](https://github.com/Jhonny0523/My-sweet-order)  
 A pastry ordering app that allows users to fully customize their orders. Includes client and admin roles.
 
-### 🌍 [Bogotravel](https://github.com/adrianyebid/ingenieria-software1-grupo-naruto.git)  
+### 🌍 [Bogotravel](https://github.com/Jhonny0523/Project-Bogotravel-Ingenieria-Software-1)  
 A travel diary desktop application to explore and save tourist places in Bogotá.
 
 ---
@@ -68,8 +68,8 @@ A travel diary desktop application to explore and save tourist places in Bogotá
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatanBolivar&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanBolivar&layout=compact&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonny0523&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny0523&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
