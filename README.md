@@ -58,7 +58,6 @@ A travel diary desktop application to explore and save tourist places in Bogotá
 </p>
 I enjoy crafting responsive and elegant desktop applications that feel intuitive and smooth to use.
 
----
 
 ### 🎮💡 Developing games with creative ideas
 <p align="center">
@@ -66,7 +65,6 @@ I enjoy crafting responsive and elegant desktop applications that feel intuitive
 </p>
 Game design is a fun way to combine logic, graphics, and storytelling. I love experimenting with new concepts.
 
----
 
 ### 🤖🧠 Artificial Intelligence
 <p align="center">
