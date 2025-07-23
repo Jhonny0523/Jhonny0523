@@ -54,11 +54,11 @@ A travel diary desktop application to explore and save tourist places in Bogotá
 
 - 🎨🖥️ **Building applications with modern user interfaces**
 - <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-  I enjoy crafting responsive and elegant desktop applications that feel intuitive and smooth to use.
+- I enjoy crafting responsive and elegant desktop applications that feel intuitive and smooth to use.
 
 - 🎮💡 **Developing games with creative ideas**
 - <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6bjF5bjVlbDNuejZlamFncndrM2QyYmdqczV2a2lldG1hejIyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt8EV3YSrZIKyxa/giphy.gif" width="200"/>
-  Game design is a fun way to combine logic, graphics, and storytelling. I love experimenting with new concepts.
+- Game design is a fun way to combine logic, graphics, and storytelling. I love experimenting with new concepts.
   
 
 - 🤖🧠 **Artificial Intelligence**
